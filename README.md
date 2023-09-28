@@ -12,22 +12,25 @@
 [📚 Dado Virtual ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Programação%20Básica/DadoVirtual)<br>
 [📚 Forca ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Programação%20Básica/Forca)<br>
 [📚 Funcionário ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Programação%20Básica/Funcionario)<br>
+[📚 Histograma ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Programação%20Básica/Histograma)<br>
 [📚 Número Aleatório ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Programação%20Básica/NumeroAleatorio)<br>
 [📚 Potência ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Programação%20Básica/Potência)<br>
 
 ##
   
-[Java JSE Programação Avançada](https://github.com/GivaldoMedeirosNeto/PosGraduacao/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada) - Prof.: Jander Vinicius Pereira
+[Java JSE Programação Avançada](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada) - Prof.: Jander Vinicius Pereira
 
-[📚 Banco ](https://github.com/GivaldoMedeirosNeto/PosGraduacao/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/Banco)<br>
-[📚 Loja ](https://github.com/GivaldoMedeirosNeto/PosGraduacao/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/Colecoes)<br>
-[📚 Coleções ](https://github.com/GivaldoMedeirosNeto/PosGraduacao)<br>
-[📚 Lista Alunos ](https://github.com/GivaldoMedeirosNeto/PosGraduacao)<br>
-[📚 Lista Alunos GUI ](https://github.com/GivaldoMedeirosNeto/PosGraduacao)<br>
-[📚 Media Aluno ](https://github.com/GivaldoMedeirosNeto/PosGraduacao)<br>
-[📚 Thread ](https://github.com/GivaldoMedeirosNeto/PosGraduacao)<br>
-[📚 Thread Build ](https://github.com/GivaldoMedeirosNeto/PosGraduacao)<br>
-[📚 Tratamento ](https://github.com/GivaldoMedeirosNeto/PosGraduacao)<br>
+[📚 AulaPesquisa ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/AulaPesquisa)<br>
+[📚 BancoThread ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/BancoThread)<br>
+[📚 Coleções ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/Colecoes)<br>
+[📚 Editor Textos ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/EditorTextos)<br>
+[📚 Lista Alunos ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/ListaAlunos)<br>
+[📚 Lista Alunos GUI ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/ListaAlunosGUI)<br>
+[📚 Loja ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/Loja)<br>
+[📚 Média Aluno ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/MediaAluno)<br>
+[📚 Thread ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/Thread)<br>
+[📚 Thread Build ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/ThreadBuilder)<br>
+[📚 Tratamento ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JSE%20-%20Programação%20Avançada/Tratamento)<br>
 
 ##
   
