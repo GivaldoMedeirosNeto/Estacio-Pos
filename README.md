@@ -32,7 +32,7 @@
 
 ##
   
-[Java JEE Programação Web](https://github.com/GivaldoMedeirosNeto/PosGraduacao/tree/main/Aula%20-%20Java%20JEE%20-%20Aplicação%20Web) - Prof.: Jose Bohorquez
+[Java JEE Programação Web](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Aplicação%20Web) - Prof.: Jose Bohorquez
 
-[📚 Calculadora ](https://github.com/GivaldoMedeirosNeto/PosGraduacao/tree/main/Aula%20-%20Java%20JEE%20-%20Aplicação%20Web/CalculadoraWeb)<br>
-[📚 ValidacaoWeb ](https://github.com/GivaldoMedeirosNeto/PosGraduacao/tree/main/Aula%20-%20Java%20JEE%20-%20Aplicação%20Web/ValidacaoWeb)<br>
+[📚 Calculadora ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Aplicação%20Web/CalculadoraWeb)<br>
+[📚 ValidacaoWeb ](https://github.com/GivaldoMedeirosNeto/Estacio-Pos/tree/main/Aula%20-%20Java%20JEE%20-%20Aplicação%20Web/ValidacaoWeb)<br>
